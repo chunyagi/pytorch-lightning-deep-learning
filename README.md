@@ -1,2 +1,3 @@
 # PyTorch Playground
-A repository of PyTorch practice projects, tutorials, and experiments
+
+A collection of simple deep learning models implemented from scratch using PyTorch.
