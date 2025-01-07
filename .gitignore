@@ -407,3 +407,6 @@ myenv/
 
 # Ignore lightning logs folder
 lightning_logs/
+
+# Ignore .ckpt files
+*.ckpt
