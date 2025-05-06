@@ -1,3 +1,3 @@
-# PyTorch Playground
+# Learn PyTorch Lightning for Deep Learning
 
-A collection of simple deep learning models implemented from scratch using PyTorch and Lightning.
+A collection of deep learning models implemented from scratch using PyTorch and Lightning for self-learning purpose.
